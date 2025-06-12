@@ -22,16 +22,15 @@ run.bat
 | ----- | ----- |
 |       |       |
 
-
 ### Ngrid
 
 Lower -> Slower
-
 
 | Ngrid | 10  | 25  | 50  |
 | ----- | --- | --- | --- |
 | Jelly |     |     |     |
 | Metal |     |     |     |
+
 #### Observation
 
 ### Substep-dt
@@ -51,14 +50,18 @@ Smaller -> Slower
 | ----- | ------ | ---- | --- |
 | Jelly |        |      |     |
 | Metal |        |      |     |
+
 #### Observation
+
 ### Softening
 
-| Ngrid | 10  | 25  | 50  |
-| ----- | --- | --- | --- |
-| Jelly |     |     |     |
-| Metal |     |     |     |
+| Soften | 0.1 | 0.25 | 0.5 |
+| ------ | --- | ---- | --- |
+| Jelly  |     |      |     |
+| Metal  |     |      |     |
+
 #### Observation
+
 # Reference
 
 ```bibtex

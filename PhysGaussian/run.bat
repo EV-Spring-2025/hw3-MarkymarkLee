@@ -1,5 +1,6 @@
 @echo off
-set OUTPUT=output/metal-ngrid-50
+set OUTPUT=output/metal-softening-0.5
+
 
 if not exist "%OUTPUT%" mkdir "%OUTPUT%"
 

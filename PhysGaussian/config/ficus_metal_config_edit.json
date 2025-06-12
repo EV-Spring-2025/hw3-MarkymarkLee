@@ -1,8 +1,8 @@
 {
-    "n_grid": 50,
+    "n_grid": 25,
     "substep_dt": 1e-4,
     "grid_v_damping_scale": 0.9999,
-    "softening": 0.1,
+    "softening": 0.5,
     "opacity_threshold": 0.02,
     "rotation_degree": [
         0.0
