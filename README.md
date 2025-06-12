@@ -18,9 +18,9 @@ run.bat
 
 ### Base
 
-| Jelly | Metal |
-| ----- | ----- |
-|       |       |
+https://youtu.be/5Sy0wzhf6-c
+
+https://github.com/user-attachments/assets/d1e8ac54-f218-47c8-bd29-be339435b878
 
 ### Ngrid
 
@@ -30,6 +30,9 @@ Lower -> Slower
 | ----- | --- | --- | --- |
 | Jelly |     |     |     |
 | Metal |     |     |     |
+
+| Jelly | https://github.com/user-attachments/assets/6a7c5a00-8349-4ebe-a924-933625cfbf16 | https://github.com/user-attachments/assets/990ec8c4-4a79-4f09-9999-51f8e9f3b03d | https://github.com/user-attachments/assets/fd391f3e-0997-4cfd-afdc-f9d79ee2a125 |
+| Metal | https://github.com/user-attachments/assets/4084168c-9886-4c22-82de-b0e907a9199f | https://github.com/user-attachments/assets/031b7b66-da69-4c4f-94cd-6b88eb985019 | https://github.com/user-attachments/assets/9a07a8ff-ecaf-4593-9803-02ac3a4c3236 |
 
 #### Observation
 
