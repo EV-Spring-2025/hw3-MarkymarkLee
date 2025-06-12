@@ -18,9 +18,9 @@ run.bat
 
 ### Base
 
-| Jelly | Metal |
-| ----- | ----- |
-| https://github.com/user-attachments/assets/571875ef-21b6-424f-a825-1953728c701f | https://github.com/user-attachments/assets/a26a949d-50a2-4153-b02e-eb0d43b28381 |
+https://youtu.be/5Sy0wzhf6-c
+
+https://github.com/user-attachments/assets/d1e8ac54-f218-47c8-bd29-be339435b878
 
 
 ### Ngrid
