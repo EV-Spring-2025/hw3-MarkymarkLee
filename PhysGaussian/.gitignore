@@ -1,0 +1,8 @@
+data
+.vscode
+*.ply
+*.pyc
+*.png
+*.jpg
+model
+log
