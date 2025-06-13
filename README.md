@@ -67,7 +67,7 @@ Jelly&Metal: Looks too similar, we can not really tell the difference.
 
 ### Bonus
 
-
+Assuming by having an arbitrary target material, it means that we have a way to simulate the material under different environment, we can generate videos of the object under the given environment. With these videos, we can then treat this problem as an optimization task, which it tries to tune the parameters and act in the environment to fit the video. This can be done through, reinforcement learning, or simple gradient descents.
 
 # Reference
 
